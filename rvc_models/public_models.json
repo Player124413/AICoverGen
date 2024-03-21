@@ -10,32 +10,32 @@
     },
     "voice_models": [
         {
-            "name": "Emilia",
-            "url": "https://huggingface.co/RinkaEmina/RVC_Sharing/resolve/main/Emilia%20V2%2048000.zip",
-            "description": "Emilia from Re:Zero",
-            "added": "2023-07-31",
-            "credit": "rinka4759",
+            "name": "Kaeya",
+            "url": "https://huggingface.co/Player1444/AI.models/resolve/main/Kaeya.zip",
+            "description": "Kaeya from Genshin Impact",
+            "added": "2023-07-10",
+            "credit": "Player1444",
             "tags": [
                 "Anime"
             ]
         },
         {
-            "name": "Klee",
-            "url": "https://huggingface.co/qweshkka/Klee/resolve/main/Klee.zip",
-            "description": "Klee from Genshin Impact",
-            "added": "2023-07-31",
-            "credit": "qweshsmashjuicefruity",
+            "name": "Shaggy-rus dub",
+            "url": "https://huggingface.co/Player1444/AI.models/resolve/main/Shaggy-rus%20dub%20(Trained%20on%20Snowie%20Russian%20Pretrain).zip",
+            "description": "Shaggy from Scooby-Doo",
+            "added": "2023-12-24",
+            "credit": "Player1444",
             "tags": [
-                "Game character",
-                "Japanese"
+                "Cartoon Character",
+                "Russian"
             ]
         },
         {
-            "name": "Yelan",
-            "url": "https://huggingface.co/iroaK/RVC2_Yelan_GenshinImpact/resolve/main/YelanJP.zip",
-            "description": "Yelan from Genshin Impact",
-            "added": "2023-07-31",
-            "credit": "iroak",
+            "name": "Spy Fox-rus dub",
+            "url": "https://huggingface.co/Player1444/AI.models/resolve/main/Spy%20Fox-rus%20dub%20(Trained%20on%20OV2Super).zip",
+            "description": "Spy Fox in Dry Cereal",
+            "added": "2024-01-13",
+            "credit": "Player1444",
             "tags": [
                 "Game character",
                 "Japanese"
