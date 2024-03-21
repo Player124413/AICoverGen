@@ -260,8 +260,8 @@ if __name__ == '__main__':
                 gr.Examples(
                     [
                         ['https://t.me/simbioz_2002', '💎 ЗАКАЗАТЬ МОДЕЛЬ НА ЗАКАЗ НА НОВОЙ ТЕХНОЛОГИИ RVC V2.5 VC+ В ЛС 💎'],
-                        ['https://huggingface.co/whichbomboclatdogiam/despimeow/resolve/main/despimeow.zip', 'Женский голос v4 (despimeow, ru streamer)'],
-                        ['https://huggingface.co/Bamre/Jack_the_ripper/resolve/main/Jack.zip', 'Женский Голос v5 (eng dub)']
+                        ['https://huggingface.co/Player1444/AI.models/resolve/main/DTV%20Animation%20(Trained%20on%20Snowie%20V3.1).zip', 'DTV Animation (Trained on Snowie Russian Pretrain)'],
+                        ['https://huggingface.co/Player1444/AI.models/resolve/main/Kowalski-rus%20dub%20(Trained%20on%20Snowie%20Russian%20Pretrain).zip', 'Kowalski-rus dub (Trained on Snowie Russian Pretrain)']
                     ],
                     [model_zip_link, model_name],
                     [],
